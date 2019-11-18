@@ -5,5 +5,6 @@ public interface TestDemo {
 	void add();
 	//添加一个方法
 	void hello();
+	void sum ();
 	
 }
